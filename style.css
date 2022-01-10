@@ -1,0 +1,19 @@
+.loder ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 5px;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  background-color: #f2f3f4;
+}
+.loder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 30px;
+  bottom: 0;
+  margin: auto;
+  width: 200px;
+  height: 80px;
+}
